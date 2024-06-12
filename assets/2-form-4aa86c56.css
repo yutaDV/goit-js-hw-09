@@ -1,0 +1,1 @@
+.feedback-form{display:flex;flex-direction:column;gap:10px;max-width:400px;margin:0 auto}.feedback-form label{display:flex;flex-direction:column;font-weight:700}.feedback-form input,.feedback-form textarea{padding:8px;font-size:16px}.feedback-form button{padding:10px;font-size:16px;cursor:pointer;background-color:#007bff;color:#fff;border:none;border-radius:5px}
